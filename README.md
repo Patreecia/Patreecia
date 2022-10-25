@@ -10,11 +10,11 @@
  - 🎓 &nbsp; Studying Computer Science in the university.
  - 💼 &nbsp; working as an intern 
  - 🌱 &nbsp; Learning front End dev and Product Design
- - ✍️ &nbsp; Pursuing Graphic Design and Content writing as hobbies/side hustles.
+ - ✍️ &nbsp; Pursuing Product Design and Content writing as hobbies/side hustles.
 
  <h3>🛠 Tech Stack</h3>
 
- - 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
+ - 💻 &nbsp; PHP | Java | C++ | R (Statistics) | MATLAB
  - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
  - 🛢 &nbsp; MySQL | MongoDB
  - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
