@@ -9,15 +9,15 @@
  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
  - 🎓 &nbsp; Studying Computer Science in the university.
  - 💼 &nbsp; working as an intern 
- - 🌱 &nbsp; Learning front End dev and Product Design
- - ✍️ &nbsp; Pursuing Product Design and Content writing as hobbies/side hustles.
+ - 🌱 &nbsp; Learning Clud Engineering and DevOps
+ - ✍️ &nbsp; Pursuing Product Design hobbies/side hustles.
 
  <h3>🛠 Tech Stack</h3>
 
- - 💻 &nbsp; PHP | Java | C++ | R (Statistics) | MATLAB
- - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+ - 💻 &nbsp;  AWS | MATLAB
+ - 🌐 &nbsp; CI/CD | ANSIBLE | DOCKER
  - 🛢 &nbsp; MySQL | MongoDB
- - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+ - 🔧 &nbsp; Git 
  - 🖥 &nbsp; Illustrator| Photoshop | InDesign
  <h3> 🛠 &nbsp;Tech Stack</h3>
 
